@@ -1,0 +1,385 @@
+expert,subpanel,item,item_name,criterion,score
+E01,A,P1,Guardian,Internal Coherence,5
+E01,A,P1,Guardian,Differentiation,5
+E01,A,P1,Guardian,Representativeness,5
+E01,A,P1,Guardian,Utility,4
+E02,A,P1,Guardian,Internal Coherence,4
+E02,A,P1,Guardian,Differentiation,5
+E02,A,P1,Guardian,Representativeness,5
+E02,A,P1,Guardian,Utility,5
+E03,A,P1,Guardian,Internal Coherence,5
+E03,A,P1,Guardian,Differentiation,5
+E03,A,P1,Guardian,Representativeness,5
+E03,A,P1,Guardian,Utility,5
+E04,A,P1,Guardian,Internal Coherence,4
+E04,A,P1,Guardian,Differentiation,4
+E04,A,P1,Guardian,Representativeness,5
+E04,A,P1,Guardian,Utility,5
+E05,A,P1,Guardian,Internal Coherence,5
+E05,A,P1,Guardian,Differentiation,5
+E05,A,P1,Guardian,Representativeness,4
+E05,A,P1,Guardian,Utility,4
+E06,A,P1,Guardian,Internal Coherence,4
+E06,A,P1,Guardian,Differentiation,4
+E06,A,P1,Guardian,Representativeness,5
+E06,A,P1,Guardian,Utility,4
+E07,B,P1,Guardian,Internal Coherence,4
+E07,B,P1,Guardian,Differentiation,4
+E07,B,P1,Guardian,Representativeness,4
+E07,B,P1,Guardian,Utility,5
+E08,B,P1,Guardian,Internal Coherence,5
+E08,B,P1,Guardian,Differentiation,5
+E08,B,P1,Guardian,Representativeness,5
+E08,B,P1,Guardian,Utility,5
+E09,B,P1,Guardian,Internal Coherence,5
+E09,B,P1,Guardian,Differentiation,4
+E09,B,P1,Guardian,Representativeness,4
+E09,B,P1,Guardian,Utility,5
+E10,B,P1,Guardian,Internal Coherence,4
+E10,B,P1,Guardian,Differentiation,5
+E10,B,P1,Guardian,Representativeness,5
+E10,B,P1,Guardian,Utility,5
+E11,B,P1,Guardian,Internal Coherence,5
+E11,B,P1,Guardian,Differentiation,5
+E11,B,P1,Guardian,Representativeness,5
+E11,B,P1,Guardian,Utility,4
+E12,B,P1,Guardian,Internal Coherence,5
+E12,B,P1,Guardian,Differentiation,4
+E12,B,P1,Guardian,Representativeness,5
+E12,B,P1,Guardian,Utility,5
+E01,A,P2,Sentinel,Internal Coherence,5
+E01,A,P2,Sentinel,Differentiation,5
+E01,A,P2,Sentinel,Representativeness,4
+E01,A,P2,Sentinel,Utility,4
+E02,A,P2,Sentinel,Internal Coherence,5
+E02,A,P2,Sentinel,Differentiation,5
+E02,A,P2,Sentinel,Representativeness,4
+E02,A,P2,Sentinel,Utility,4
+E03,A,P2,Sentinel,Internal Coherence,5
+E03,A,P2,Sentinel,Differentiation,4
+E03,A,P2,Sentinel,Representativeness,5
+E03,A,P2,Sentinel,Utility,4
+E04,A,P2,Sentinel,Internal Coherence,4
+E04,A,P2,Sentinel,Differentiation,4
+E04,A,P2,Sentinel,Representativeness,5
+E04,A,P2,Sentinel,Utility,5
+E05,A,P2,Sentinel,Internal Coherence,5
+E05,A,P2,Sentinel,Differentiation,5
+E05,A,P2,Sentinel,Representativeness,5
+E05,A,P2,Sentinel,Utility,5
+E06,A,P2,Sentinel,Internal Coherence,4
+E06,A,P2,Sentinel,Differentiation,4
+E06,A,P2,Sentinel,Representativeness,4
+E06,A,P2,Sentinel,Utility,4
+E07,B,P2,Sentinel,Internal Coherence,4
+E07,B,P2,Sentinel,Differentiation,4
+E07,B,P2,Sentinel,Representativeness,5
+E07,B,P2,Sentinel,Utility,5
+E08,B,P2,Sentinel,Internal Coherence,5
+E08,B,P2,Sentinel,Differentiation,5
+E08,B,P2,Sentinel,Representativeness,4
+E08,B,P2,Sentinel,Utility,5
+E09,B,P2,Sentinel,Internal Coherence,5
+E09,B,P2,Sentinel,Differentiation,5
+E09,B,P2,Sentinel,Representativeness,4
+E09,B,P2,Sentinel,Utility,5
+E10,B,P2,Sentinel,Internal Coherence,4
+E10,B,P2,Sentinel,Differentiation,4
+E10,B,P2,Sentinel,Representativeness,4
+E10,B,P2,Sentinel,Utility,3
+E11,B,P2,Sentinel,Internal Coherence,5
+E11,B,P2,Sentinel,Differentiation,4
+E11,B,P2,Sentinel,Representativeness,5
+E11,B,P2,Sentinel,Utility,5
+E12,B,P2,Sentinel,Internal Coherence,5
+E12,B,P2,Sentinel,Differentiation,4
+E12,B,P2,Sentinel,Representativeness,5
+E12,B,P2,Sentinel,Utility,5
+E01,A,P3,Pragmatist,Internal Coherence,5
+E01,A,P3,Pragmatist,Differentiation,4
+E01,A,P3,Pragmatist,Representativeness,5
+E01,A,P3,Pragmatist,Utility,4
+E02,A,P3,Pragmatist,Internal Coherence,4
+E02,A,P3,Pragmatist,Differentiation,4
+E02,A,P3,Pragmatist,Representativeness,4
+E02,A,P3,Pragmatist,Utility,4
+E03,A,P3,Pragmatist,Internal Coherence,5
+E03,A,P3,Pragmatist,Differentiation,4
+E03,A,P3,Pragmatist,Representativeness,4
+E03,A,P3,Pragmatist,Utility,4
+E04,A,P3,Pragmatist,Internal Coherence,3
+E04,A,P3,Pragmatist,Differentiation,4
+E04,A,P3,Pragmatist,Representativeness,4
+E04,A,P3,Pragmatist,Utility,3
+E05,A,P3,Pragmatist,Internal Coherence,4
+E05,A,P3,Pragmatist,Differentiation,3
+E05,A,P3,Pragmatist,Representativeness,4
+E05,A,P3,Pragmatist,Utility,5
+E06,A,P3,Pragmatist,Internal Coherence,4
+E06,A,P3,Pragmatist,Differentiation,4
+E06,A,P3,Pragmatist,Representativeness,4
+E06,A,P3,Pragmatist,Utility,4
+E07,B,P3,Pragmatist,Internal Coherence,5
+E07,B,P3,Pragmatist,Differentiation,4
+E07,B,P3,Pragmatist,Representativeness,3
+E07,B,P3,Pragmatist,Utility,4
+E08,B,P3,Pragmatist,Internal Coherence,4
+E08,B,P3,Pragmatist,Differentiation,4
+E08,B,P3,Pragmatist,Representativeness,4
+E08,B,P3,Pragmatist,Utility,5
+E09,B,P3,Pragmatist,Internal Coherence,5
+E09,B,P3,Pragmatist,Differentiation,4
+E09,B,P3,Pragmatist,Representativeness,5
+E09,B,P3,Pragmatist,Utility,4
+E10,B,P3,Pragmatist,Internal Coherence,4
+E10,B,P3,Pragmatist,Differentiation,4
+E10,B,P3,Pragmatist,Representativeness,4
+E10,B,P3,Pragmatist,Utility,4
+E11,B,P3,Pragmatist,Internal Coherence,4
+E11,B,P3,Pragmatist,Differentiation,3
+E11,B,P3,Pragmatist,Representativeness,4
+E11,B,P3,Pragmatist,Utility,4
+E12,B,P3,Pragmatist,Internal Coherence,5
+E12,B,P3,Pragmatist,Differentiation,4
+E12,B,P3,Pragmatist,Representativeness,4
+E12,B,P3,Pragmatist,Utility,4
+E01,A,P4,Strategist,Internal Coherence,5
+E01,A,P4,Strategist,Differentiation,4
+E01,A,P4,Strategist,Representativeness,4
+E01,A,P4,Strategist,Utility,4
+E02,A,P4,Strategist,Internal Coherence,4
+E02,A,P4,Strategist,Differentiation,5
+E02,A,P4,Strategist,Representativeness,5
+E02,A,P4,Strategist,Utility,5
+E03,A,P4,Strategist,Internal Coherence,4
+E03,A,P4,Strategist,Differentiation,4
+E03,A,P4,Strategist,Representativeness,5
+E03,A,P4,Strategist,Utility,4
+E04,A,P4,Strategist,Internal Coherence,5
+E04,A,P4,Strategist,Differentiation,4
+E04,A,P4,Strategist,Representativeness,5
+E04,A,P4,Strategist,Utility,4
+E05,A,P4,Strategist,Internal Coherence,4
+E05,A,P4,Strategist,Differentiation,4
+E05,A,P4,Strategist,Representativeness,5
+E05,A,P4,Strategist,Utility,5
+E06,A,P4,Strategist,Internal Coherence,4
+E06,A,P4,Strategist,Differentiation,5
+E06,A,P4,Strategist,Representativeness,4
+E06,A,P4,Strategist,Utility,5
+E07,B,P4,Strategist,Internal Coherence,5
+E07,B,P4,Strategist,Differentiation,5
+E07,B,P4,Strategist,Representativeness,5
+E07,B,P4,Strategist,Utility,4
+E08,B,P4,Strategist,Internal Coherence,5
+E08,B,P4,Strategist,Differentiation,4
+E08,B,P4,Strategist,Representativeness,4
+E08,B,P4,Strategist,Utility,4
+E09,B,P4,Strategist,Internal Coherence,4
+E09,B,P4,Strategist,Differentiation,4
+E09,B,P4,Strategist,Representativeness,5
+E09,B,P4,Strategist,Utility,5
+E10,B,P4,Strategist,Internal Coherence,4
+E10,B,P4,Strategist,Differentiation,4
+E10,B,P4,Strategist,Representativeness,4
+E10,B,P4,Strategist,Utility,4
+E11,B,P4,Strategist,Internal Coherence,5
+E11,B,P4,Strategist,Differentiation,5
+E11,B,P4,Strategist,Representativeness,3
+E11,B,P4,Strategist,Utility,5
+E12,B,P4,Strategist,Internal Coherence,5
+E12,B,P4,Strategist,Differentiation,5
+E12,B,P4,Strategist,Representativeness,5
+E12,B,P4,Strategist,Utility,4
+E01,A,P5,Adventurer,Internal Coherence,5
+E01,A,P5,Adventurer,Differentiation,4
+E01,A,P5,Adventurer,Representativeness,4
+E01,A,P5,Adventurer,Utility,4
+E02,A,P5,Adventurer,Internal Coherence,4
+E02,A,P5,Adventurer,Differentiation,3
+E02,A,P5,Adventurer,Representativeness,4
+E02,A,P5,Adventurer,Utility,4
+E03,A,P5,Adventurer,Internal Coherence,4
+E03,A,P5,Adventurer,Differentiation,4
+E03,A,P5,Adventurer,Representativeness,5
+E03,A,P5,Adventurer,Utility,4
+E04,A,P5,Adventurer,Internal Coherence,4
+E04,A,P5,Adventurer,Differentiation,4
+E04,A,P5,Adventurer,Representativeness,4
+E04,A,P5,Adventurer,Utility,4
+E05,A,P5,Adventurer,Internal Coherence,4
+E05,A,P5,Adventurer,Differentiation,4
+E05,A,P5,Adventurer,Representativeness,4
+E05,A,P5,Adventurer,Utility,4
+E06,A,P5,Adventurer,Internal Coherence,4
+E06,A,P5,Adventurer,Differentiation,4
+E06,A,P5,Adventurer,Representativeness,3
+E06,A,P5,Adventurer,Utility,4
+E07,B,P5,Adventurer,Internal Coherence,4
+E07,B,P5,Adventurer,Differentiation,5
+E07,B,P5,Adventurer,Representativeness,5
+E07,B,P5,Adventurer,Utility,5
+E08,B,P5,Adventurer,Internal Coherence,4
+E08,B,P5,Adventurer,Differentiation,5
+E08,B,P5,Adventurer,Representativeness,5
+E08,B,P5,Adventurer,Utility,3
+E09,B,P5,Adventurer,Internal Coherence,4
+E09,B,P5,Adventurer,Differentiation,3
+E09,B,P5,Adventurer,Representativeness,4
+E09,B,P5,Adventurer,Utility,4
+E10,B,P5,Adventurer,Internal Coherence,5
+E10,B,P5,Adventurer,Differentiation,4
+E10,B,P5,Adventurer,Representativeness,5
+E10,B,P5,Adventurer,Utility,4
+E11,B,P5,Adventurer,Internal Coherence,5
+E11,B,P5,Adventurer,Differentiation,3
+E11,B,P5,Adventurer,Representativeness,5
+E11,B,P5,Adventurer,Utility,4
+E12,B,P5,Adventurer,Internal Coherence,5
+E12,B,P5,Adventurer,Differentiation,5
+E12,B,P5,Adventurer,Representativeness,4
+E12,B,P5,Adventurer,Utility,4
+E01,A,P6,Analyst,Internal Coherence,5
+E01,A,P6,Analyst,Differentiation,5
+E01,A,P6,Analyst,Representativeness,5
+E01,A,P6,Analyst,Utility,5
+E02,A,P6,Analyst,Internal Coherence,5
+E02,A,P6,Analyst,Differentiation,5
+E02,A,P6,Analyst,Representativeness,4
+E02,A,P6,Analyst,Utility,5
+E03,A,P6,Analyst,Internal Coherence,5
+E03,A,P6,Analyst,Differentiation,4
+E03,A,P6,Analyst,Representativeness,4
+E03,A,P6,Analyst,Utility,4
+E04,A,P6,Analyst,Internal Coherence,5
+E04,A,P6,Analyst,Differentiation,4
+E04,A,P6,Analyst,Representativeness,4
+E04,A,P6,Analyst,Utility,5
+E05,A,P6,Analyst,Internal Coherence,5
+E05,A,P6,Analyst,Differentiation,5
+E05,A,P6,Analyst,Representativeness,5
+E05,A,P6,Analyst,Utility,5
+E06,A,P6,Analyst,Internal Coherence,5
+E06,A,P6,Analyst,Differentiation,4
+E06,A,P6,Analyst,Representativeness,4
+E06,A,P6,Analyst,Utility,5
+E07,B,P6,Analyst,Internal Coherence,4
+E07,B,P6,Analyst,Differentiation,5
+E07,B,P6,Analyst,Representativeness,4
+E07,B,P6,Analyst,Utility,5
+E08,B,P6,Analyst,Internal Coherence,5
+E08,B,P6,Analyst,Differentiation,4
+E08,B,P6,Analyst,Representativeness,4
+E08,B,P6,Analyst,Utility,4
+E09,B,P6,Analyst,Internal Coherence,5
+E09,B,P6,Analyst,Differentiation,5
+E09,B,P6,Analyst,Representativeness,5
+E09,B,P6,Analyst,Utility,4
+E10,B,P6,Analyst,Internal Coherence,5
+E10,B,P6,Analyst,Differentiation,4
+E10,B,P6,Analyst,Representativeness,5
+E10,B,P6,Analyst,Utility,5
+E11,B,P6,Analyst,Internal Coherence,5
+E11,B,P6,Analyst,Differentiation,5
+E11,B,P6,Analyst,Representativeness,4
+E11,B,P6,Analyst,Utility,5
+E12,B,P6,Analyst,Internal Coherence,5
+E12,B,P6,Analyst,Differentiation,4
+E12,B,P6,Analyst,Representativeness,5
+E12,B,P6,Analyst,Utility,5
+E01,A,P7,Innovator,Internal Coherence,5
+E01,A,P7,Innovator,Differentiation,5
+E01,A,P7,Innovator,Representativeness,5
+E01,A,P7,Innovator,Utility,5
+E02,A,P7,Innovator,Internal Coherence,5
+E02,A,P7,Innovator,Differentiation,4
+E02,A,P7,Innovator,Representativeness,4
+E02,A,P7,Innovator,Utility,5
+E03,A,P7,Innovator,Internal Coherence,5
+E03,A,P7,Innovator,Differentiation,5
+E03,A,P7,Innovator,Representativeness,3
+E03,A,P7,Innovator,Utility,5
+E04,A,P7,Innovator,Internal Coherence,5
+E04,A,P7,Innovator,Differentiation,4
+E04,A,P7,Innovator,Representativeness,5
+E04,A,P7,Innovator,Utility,5
+E05,A,P7,Innovator,Internal Coherence,5
+E05,A,P7,Innovator,Differentiation,5
+E05,A,P7,Innovator,Representativeness,4
+E05,A,P7,Innovator,Utility,4
+E06,A,P7,Innovator,Internal Coherence,3
+E06,A,P7,Innovator,Differentiation,5
+E06,A,P7,Innovator,Representativeness,4
+E06,A,P7,Innovator,Utility,4
+E07,B,P7,Innovator,Internal Coherence,5
+E07,B,P7,Innovator,Differentiation,5
+E07,B,P7,Innovator,Representativeness,4
+E07,B,P7,Innovator,Utility,4
+E08,B,P7,Innovator,Internal Coherence,5
+E08,B,P7,Innovator,Differentiation,4
+E08,B,P7,Innovator,Representativeness,5
+E08,B,P7,Innovator,Utility,5
+E09,B,P7,Innovator,Internal Coherence,4
+E09,B,P7,Innovator,Differentiation,5
+E09,B,P7,Innovator,Representativeness,4
+E09,B,P7,Innovator,Utility,5
+E10,B,P7,Innovator,Internal Coherence,4
+E10,B,P7,Innovator,Differentiation,4
+E10,B,P7,Innovator,Representativeness,4
+E10,B,P7,Innovator,Utility,4
+E11,B,P7,Innovator,Internal Coherence,4
+E11,B,P7,Innovator,Differentiation,5
+E11,B,P7,Innovator,Representativeness,4
+E11,B,P7,Innovator,Utility,5
+E12,B,P7,Innovator,Internal Coherence,5
+E12,B,P7,Innovator,Differentiation,4
+E12,B,P7,Innovator,Representativeness,4
+E12,B,P7,Innovator,Utility,4
+E01,A,P8,Visionary,Internal Coherence,5
+E01,A,P8,Visionary,Differentiation,5
+E01,A,P8,Visionary,Representativeness,4
+E01,A,P8,Visionary,Utility,5
+E02,A,P8,Visionary,Internal Coherence,4
+E02,A,P8,Visionary,Differentiation,4
+E02,A,P8,Visionary,Representativeness,4
+E02,A,P8,Visionary,Utility,4
+E03,A,P8,Visionary,Internal Coherence,4
+E03,A,P8,Visionary,Differentiation,4
+E03,A,P8,Visionary,Representativeness,4
+E03,A,P8,Visionary,Utility,5
+E04,A,P8,Visionary,Internal Coherence,5
+E04,A,P8,Visionary,Differentiation,4
+E04,A,P8,Visionary,Representativeness,4
+E04,A,P8,Visionary,Utility,4
+E05,A,P8,Visionary,Internal Coherence,4
+E05,A,P8,Visionary,Differentiation,4
+E05,A,P8,Visionary,Representativeness,5
+E05,A,P8,Visionary,Utility,4
+E06,A,P8,Visionary,Internal Coherence,4
+E06,A,P8,Visionary,Differentiation,4
+E06,A,P8,Visionary,Representativeness,4
+E06,A,P8,Visionary,Utility,4
+E07,B,P8,Visionary,Internal Coherence,5
+E07,B,P8,Visionary,Differentiation,5
+E07,B,P8,Visionary,Representativeness,4
+E07,B,P8,Visionary,Utility,4
+E08,B,P8,Visionary,Internal Coherence,4
+E08,B,P8,Visionary,Differentiation,4
+E08,B,P8,Visionary,Representativeness,4
+E08,B,P8,Visionary,Utility,4
+E09,B,P8,Visionary,Internal Coherence,4
+E09,B,P8,Visionary,Differentiation,4
+E09,B,P8,Visionary,Representativeness,4
+E09,B,P8,Visionary,Utility,4
+E10,B,P8,Visionary,Internal Coherence,4
+E10,B,P8,Visionary,Differentiation,4
+E10,B,P8,Visionary,Representativeness,4
+E10,B,P8,Visionary,Utility,4
+E11,B,P8,Visionary,Internal Coherence,5
+E11,B,P8,Visionary,Differentiation,5
+E11,B,P8,Visionary,Representativeness,4
+E11,B,P8,Visionary,Utility,4
+E12,B,P8,Visionary,Internal Coherence,5
+E12,B,P8,Visionary,Differentiation,5
+E12,B,P8,Visionary,Representativeness,4
+E12,B,P8,Visionary,Utility,4

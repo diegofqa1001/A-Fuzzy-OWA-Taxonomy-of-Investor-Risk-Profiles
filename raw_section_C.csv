@@ -1,0 +1,61 @@
+expert,subpanel,item,criterion,score
+E01,A,C1,C1: Sufficiency of 7 dimensions,4
+E01,A,C2,C2: Representativeness of 8 profiles,4
+E01,A,C3,C3: Superiority over tripartite classification,5
+E01,A,C4,C4: Appropriateness of fuzzy formalization,4
+E01,A,C5,C5: OWA calibration coherence,4
+E02,A,C1,C1: Sufficiency of 7 dimensions,4
+E02,A,C2,C2: Representativeness of 8 profiles,4
+E02,A,C3,C3: Superiority over tripartite classification,5
+E02,A,C4,C4: Appropriateness of fuzzy formalization,4
+E02,A,C5,C5: OWA calibration coherence,5
+E03,A,C1,C1: Sufficiency of 7 dimensions,5
+E03,A,C2,C2: Representativeness of 8 profiles,4
+E03,A,C3,C3: Superiority over tripartite classification,5
+E03,A,C4,C4: Appropriateness of fuzzy formalization,5
+E03,A,C5,C5: OWA calibration coherence,5
+E04,A,C1,C1: Sufficiency of 7 dimensions,5
+E04,A,C2,C2: Representativeness of 8 profiles,5
+E04,A,C3,C3: Superiority over tripartite classification,4
+E04,A,C4,C4: Appropriateness of fuzzy formalization,4
+E04,A,C5,C5: OWA calibration coherence,4
+E05,A,C1,C1: Sufficiency of 7 dimensions,5
+E05,A,C2,C2: Representativeness of 8 profiles,5
+E05,A,C3,C3: Superiority over tripartite classification,5
+E05,A,C4,C4: Appropriateness of fuzzy formalization,4
+E05,A,C5,C5: OWA calibration coherence,4
+E06,A,C1,C1: Sufficiency of 7 dimensions,5
+E06,A,C2,C2: Representativeness of 8 profiles,4
+E06,A,C3,C3: Superiority over tripartite classification,5
+E06,A,C4,C4: Appropriateness of fuzzy formalization,4
+E06,A,C5,C5: OWA calibration coherence,4
+E07,B,C1,C1: Sufficiency of 7 dimensions,5
+E07,B,C2,C2: Representativeness of 8 profiles,4
+E07,B,C3,C3: Superiority over tripartite classification,5
+E07,B,C4,C4: Appropriateness of fuzzy formalization,4
+E07,B,C5,C5: OWA calibration coherence,4
+E08,B,C1,C1: Sufficiency of 7 dimensions,4
+E08,B,C2,C2: Representativeness of 8 profiles,5
+E08,B,C3,C3: Superiority over tripartite classification,5
+E08,B,C4,C4: Appropriateness of fuzzy formalization,5
+E08,B,C5,C5: OWA calibration coherence,5
+E09,B,C1,C1: Sufficiency of 7 dimensions,5
+E09,B,C2,C2: Representativeness of 8 profiles,5
+E09,B,C3,C3: Superiority over tripartite classification,5
+E09,B,C4,C4: Appropriateness of fuzzy formalization,5
+E09,B,C5,C5: OWA calibration coherence,4
+E10,B,C1,C1: Sufficiency of 7 dimensions,4
+E10,B,C2,C2: Representativeness of 8 profiles,4
+E10,B,C3,C3: Superiority over tripartite classification,4
+E10,B,C4,C4: Appropriateness of fuzzy formalization,5
+E10,B,C5,C5: OWA calibration coherence,5
+E11,B,C1,C1: Sufficiency of 7 dimensions,4
+E11,B,C2,C2: Representativeness of 8 profiles,4
+E11,B,C3,C3: Superiority over tripartite classification,5
+E11,B,C4,C4: Appropriateness of fuzzy formalization,5
+E11,B,C5,C5: OWA calibration coherence,4
+E12,B,C1,C1: Sufficiency of 7 dimensions,5
+E12,B,C2,C2: Representativeness of 8 profiles,4
+E12,B,C3,C3: Superiority over tripartite classification,5
+E12,B,C4,C4: Appropriateness of fuzzy formalization,5
+E12,B,C5,C5: OWA calibration coherence,4

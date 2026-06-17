@@ -1,0 +1,712 @@
+{
+  "section_A": {
+    "D1": {
+      "Clarity": {
+        "median": 5.0,
+        "mean": 4.67,
+        "std": 0.49,
+        "iqr": 1.0,
+        "ivc": 1.0,
+        "min": 4,
+        "max": 5,
+        "n_agree": 12
+      },
+      "Relevance": {
+        "median": 5.0,
+        "mean": 4.58,
+        "std": 0.51,
+        "iqr": 1.0,
+        "ivc": 1.0,
+        "min": 4,
+        "max": 5,
+        "n_agree": 12
+      },
+      "Independence": {
+        "median": 4.0,
+        "mean": 4.33,
+        "std": 0.65,
+        "iqr": 1.0,
+        "ivc": 0.833,
+        "min": 3,
+        "max": 5,
+        "n_agree": 11
+      },
+      "Operationalizability": {
+        "median": 4.5,
+        "mean": 4.5,
+        "std": 0.52,
+        "iqr": 1.0,
+        "ivc": 1.0,
+        "min": 4,
+        "max": 5,
+        "n_agree": 12
+      }
+    },
+    "D5": {
+      "Clarity": {
+        "median": 5.0,
+        "mean": 4.58,
+        "std": 0.67,
+        "iqr": 1.0,
+        "ivc": 0.833,
+        "min": 3,
+        "max": 5,
+        "n_agree": 11
+      },
+      "Relevance": {
+        "median": 5.0,
+        "mean": 4.83,
+        "std": 0.39,
+        "iqr": 0.0,
+        "ivc": 1.0,
+        "min": 4,
+        "max": 5,
+        "n_agree": 12
+      },
+      "Independence": {
+        "median": 4.0,
+        "mean": 4.08,
+        "std": 0.51,
+        "iqr": 0.0,
+        "ivc": 0.833,
+        "min": 3,
+        "max": 5,
+        "n_agree": 11
+      },
+      "Operationalizability": {
+        "median": 4.0,
+        "mean": 4.42,
+        "std": 0.51,
+        "iqr": 1.0,
+        "ivc": 1.0,
+        "min": 4,
+        "max": 5,
+        "n_agree": 12
+      }
+    },
+    "D4": {
+      "Clarity": {
+        "median": 4.5,
+        "mean": 4.5,
+        "std": 0.52,
+        "iqr": 1.0,
+        "ivc": 1.0,
+        "min": 4,
+        "max": 5,
+        "n_agree": 12
+      },
+      "Relevance": {
+        "median": 5.0,
+        "mean": 4.75,
+        "std": 0.45,
+        "iqr": 0.25,
+        "ivc": 1.0,
+        "min": 4,
+        "max": 5,
+        "n_agree": 12
+      },
+      "Independence": {
+        "median": 4.0,
+        "mean": 4.25,
+        "std": 0.45,
+        "iqr": 0.25,
+        "ivc": 1.0,
+        "min": 4,
+        "max": 5,
+        "n_agree": 12
+      },
+      "Operationalizability": {
+        "median": 4.0,
+        "mean": 4.25,
+        "std": 0.62,
+        "iqr": 1.0,
+        "ivc": 0.833,
+        "min": 3,
+        "max": 5,
+        "n_agree": 11
+      }
+    },
+    "D10": {
+      "Clarity": {
+        "median": 4.0,
+        "mean": 4.42,
+        "std": 0.51,
+        "iqr": 1.0,
+        "ivc": 1.0,
+        "min": 4,
+        "max": 5,
+        "n_agree": 12
+      },
+      "Relevance": {
+        "median": 5.0,
+        "mean": 4.58,
+        "std": 0.67,
+        "iqr": 1.0,
+        "ivc": 0.833,
+        "min": 3,
+        "max": 5,
+        "n_agree": 11
+      },
+      "Independence": {
+        "median": 4.0,
+        "mean": 3.75,
+        "std": 0.62,
+        "iqr": 1.0,
+        "ivc": 0.333,
+        "min": 3,
+        "max": 5,
+        "n_agree": 8
+      },
+      "Operationalizability": {
+        "median": 4.0,
+        "mean": 4.17,
+        "std": 0.58,
+        "iqr": 0.25,
+        "ivc": 0.833,
+        "min": 3,
+        "max": 5,
+        "n_agree": 11
+      }
+    },
+    "D8": {
+      "Clarity": {
+        "median": 5.0,
+        "mean": 4.75,
+        "std": 0.45,
+        "iqr": 0.25,
+        "ivc": 1.0,
+        "min": 4,
+        "max": 5,
+        "n_agree": 12
+      },
+      "Relevance": {
+        "median": 4.5,
+        "mean": 4.5,
+        "std": 0.52,
+        "iqr": 1.0,
+        "ivc": 1.0,
+        "min": 4,
+        "max": 5,
+        "n_agree": 12
+      },
+      "Independence": {
+        "median": 5.0,
+        "mean": 4.67,
+        "std": 0.49,
+        "iqr": 1.0,
+        "ivc": 1.0,
+        "min": 4,
+        "max": 5,
+        "n_agree": 12
+      },
+      "Operationalizability": {
+        "median": 5.0,
+        "mean": 4.5,
+        "std": 0.67,
+        "iqr": 1.0,
+        "ivc": 0.833,
+        "min": 3,
+        "max": 5,
+        "n_agree": 11
+      }
+    },
+    "D7": {
+      "Clarity": {
+        "median": 4.0,
+        "mean": 4.17,
+        "std": 0.72,
+        "iqr": 1.0,
+        "ivc": 0.667,
+        "min": 3,
+        "max": 5,
+        "n_agree": 10
+      },
+      "Relevance": {
+        "median": 4.5,
+        "mean": 4.5,
+        "std": 0.52,
+        "iqr": 1.0,
+        "ivc": 1.0,
+        "min": 4,
+        "max": 5,
+        "n_agree": 12
+      },
+      "Independence": {
+        "median": 4.0,
+        "mean": 4.33,
+        "std": 0.65,
+        "iqr": 1.0,
+        "ivc": 0.833,
+        "min": 3,
+        "max": 5,
+        "n_agree": 11
+      },
+      "Operationalizability": {
+        "median": 4.0,
+        "mean": 4.17,
+        "std": 0.72,
+        "iqr": 1.0,
+        "ivc": 0.667,
+        "min": 3,
+        "max": 5,
+        "n_agree": 10
+      }
+    },
+    "D12": {
+      "Clarity": {
+        "median": 4.0,
+        "mean": 4.0,
+        "std": 0.74,
+        "iqr": 0.5,
+        "ivc": 0.5,
+        "min": 3,
+        "max": 5,
+        "n_agree": 9
+      },
+      "Relevance": {
+        "median": 4.0,
+        "mean": 4.0,
+        "std": 0.43,
+        "iqr": 0.0,
+        "ivc": 0.833,
+        "min": 3,
+        "max": 5,
+        "n_agree": 11
+      },
+      "Independence": {
+        "median": 4.0,
+        "mean": 3.75,
+        "std": 0.45,
+        "iqr": 0.25,
+        "ivc": 0.5,
+        "min": 3,
+        "max": 4,
+        "n_agree": 9
+      },
+      "Operationalizability": {
+        "median": 4.0,
+        "mean": 4.25,
+        "std": 0.62,
+        "iqr": 1.0,
+        "ivc": 0.833,
+        "min": 3,
+        "max": 5,
+        "n_agree": 11
+      }
+    }
+  },
+  "section_B": {
+    "P1": {
+      "Internal Coherence": {
+        "median": 5.0,
+        "mean": 4.58,
+        "std": 0.51,
+        "iqr": 1.0,
+        "ivc": 1.0,
+        "min": 4,
+        "max": 5,
+        "n_agree": 12
+      },
+      "Differentiation": {
+        "median": 5.0,
+        "mean": 4.58,
+        "std": 0.51,
+        "iqr": 1.0,
+        "ivc": 1.0,
+        "min": 4,
+        "max": 5,
+        "n_agree": 12
+      },
+      "Representativeness": {
+        "median": 5.0,
+        "mean": 4.75,
+        "std": 0.45,
+        "iqr": 0.25,
+        "ivc": 1.0,
+        "min": 4,
+        "max": 5,
+        "n_agree": 12
+      },
+      "Utility": {
+        "median": 5.0,
+        "mean": 4.67,
+        "std": 0.49,
+        "iqr": 1.0,
+        "ivc": 1.0,
+        "min": 4,
+        "max": 5,
+        "n_agree": 12
+      }
+    },
+    "P2": {
+      "Internal Coherence": {
+        "median": 5.0,
+        "mean": 4.67,
+        "std": 0.49,
+        "iqr": 1.0,
+        "ivc": 1.0,
+        "min": 4,
+        "max": 5,
+        "n_agree": 12
+      },
+      "Differentiation": {
+        "median": 4.0,
+        "mean": 4.42,
+        "std": 0.51,
+        "iqr": 1.0,
+        "ivc": 1.0,
+        "min": 4,
+        "max": 5,
+        "n_agree": 12
+      },
+      "Representativeness": {
+        "median": 4.5,
+        "mean": 4.5,
+        "std": 0.52,
+        "iqr": 1.0,
+        "ivc": 1.0,
+        "min": 4,
+        "max": 5,
+        "n_agree": 12
+      },
+      "Utility": {
+        "median": 5.0,
+        "mean": 4.5,
+        "std": 0.67,
+        "iqr": 1.0,
+        "ivc": 0.833,
+        "min": 3,
+        "max": 5,
+        "n_agree": 11
+      }
+    },
+    "P3": {
+      "Internal Coherence": {
+        "median": 4.0,
+        "mean": 4.33,
+        "std": 0.65,
+        "iqr": 1.0,
+        "ivc": 0.833,
+        "min": 3,
+        "max": 5,
+        "n_agree": 11
+      },
+      "Differentiation": {
+        "median": 4.0,
+        "mean": 3.83,
+        "std": 0.39,
+        "iqr": 0.0,
+        "ivc": 0.667,
+        "min": 3,
+        "max": 4,
+        "n_agree": 10
+      },
+      "Representativeness": {
+        "median": 4.0,
+        "mean": 4.08,
+        "std": 0.51,
+        "iqr": 0.0,
+        "ivc": 0.833,
+        "min": 3,
+        "max": 5,
+        "n_agree": 11
+      },
+      "Utility": {
+        "median": 4.0,
+        "mean": 4.08,
+        "std": 0.51,
+        "iqr": 0.0,
+        "ivc": 0.833,
+        "min": 3,
+        "max": 5,
+        "n_agree": 11
+      }
+    },
+    "P4": {
+      "Internal Coherence": {
+        "median": 4.5,
+        "mean": 4.5,
+        "std": 0.52,
+        "iqr": 1.0,
+        "ivc": 1.0,
+        "min": 4,
+        "max": 5,
+        "n_agree": 12
+      },
+      "Differentiation": {
+        "median": 4.0,
+        "mean": 4.42,
+        "std": 0.51,
+        "iqr": 1.0,
+        "ivc": 1.0,
+        "min": 4,
+        "max": 5,
+        "n_agree": 12
+      },
+      "Representativeness": {
+        "median": 5.0,
+        "mean": 4.5,
+        "std": 0.67,
+        "iqr": 1.0,
+        "ivc": 0.833,
+        "min": 3,
+        "max": 5,
+        "n_agree": 11
+      },
+      "Utility": {
+        "median": 4.0,
+        "mean": 4.42,
+        "std": 0.51,
+        "iqr": 1.0,
+        "ivc": 1.0,
+        "min": 4,
+        "max": 5,
+        "n_agree": 12
+      }
+    },
+    "P5": {
+      "Internal Coherence": {
+        "median": 4.0,
+        "mean": 4.33,
+        "std": 0.49,
+        "iqr": 1.0,
+        "ivc": 1.0,
+        "min": 4,
+        "max": 5,
+        "n_agree": 12
+      },
+      "Differentiation": {
+        "median": 4.0,
+        "mean": 4.0,
+        "std": 0.74,
+        "iqr": 0.5,
+        "ivc": 0.5,
+        "min": 3,
+        "max": 5,
+        "n_agree": 9
+      },
+      "Representativeness": {
+        "median": 4.0,
+        "mean": 4.33,
+        "std": 0.65,
+        "iqr": 1.0,
+        "ivc": 0.833,
+        "min": 3,
+        "max": 5,
+        "n_agree": 11
+      },
+      "Utility": {
+        "median": 4.0,
+        "mean": 4.0,
+        "std": 0.43,
+        "iqr": 0.0,
+        "ivc": 0.833,
+        "min": 3,
+        "max": 5,
+        "n_agree": 11
+      }
+    },
+    "P6": {
+      "Internal Coherence": {
+        "median": 5.0,
+        "mean": 4.92,
+        "std": 0.29,
+        "iqr": 0.0,
+        "ivc": 1.0,
+        "min": 4,
+        "max": 5,
+        "n_agree": 12
+      },
+      "Differentiation": {
+        "median": 4.5,
+        "mean": 4.5,
+        "std": 0.52,
+        "iqr": 1.0,
+        "ivc": 1.0,
+        "min": 4,
+        "max": 5,
+        "n_agree": 12
+      },
+      "Representativeness": {
+        "median": 4.0,
+        "mean": 4.42,
+        "std": 0.51,
+        "iqr": 1.0,
+        "ivc": 1.0,
+        "min": 4,
+        "max": 5,
+        "n_agree": 12
+      },
+      "Utility": {
+        "median": 5.0,
+        "mean": 4.75,
+        "std": 0.45,
+        "iqr": 0.25,
+        "ivc": 1.0,
+        "min": 4,
+        "max": 5,
+        "n_agree": 12
+      }
+    },
+    "P7": {
+      "Internal Coherence": {
+        "median": 5.0,
+        "mean": 4.58,
+        "std": 0.67,
+        "iqr": 1.0,
+        "ivc": 0.833,
+        "min": 3,
+        "max": 5,
+        "n_agree": 11
+      },
+      "Differentiation": {
+        "median": 5.0,
+        "mean": 4.58,
+        "std": 0.51,
+        "iqr": 1.0,
+        "ivc": 1.0,
+        "min": 4,
+        "max": 5,
+        "n_agree": 12
+      },
+      "Representativeness": {
+        "median": 4.0,
+        "mean": 4.17,
+        "std": 0.58,
+        "iqr": 0.25,
+        "ivc": 0.833,
+        "min": 3,
+        "max": 5,
+        "n_agree": 11
+      },
+      "Utility": {
+        "median": 5.0,
+        "mean": 4.58,
+        "std": 0.51,
+        "iqr": 1.0,
+        "ivc": 1.0,
+        "min": 4,
+        "max": 5,
+        "n_agree": 12
+      }
+    },
+    "P8": {
+      "Internal Coherence": {
+        "median": 4.0,
+        "mean": 4.42,
+        "std": 0.51,
+        "iqr": 1.0,
+        "ivc": 1.0,
+        "min": 4,
+        "max": 5,
+        "n_agree": 12
+      },
+      "Differentiation": {
+        "median": 4.0,
+        "mean": 4.33,
+        "std": 0.49,
+        "iqr": 1.0,
+        "ivc": 1.0,
+        "min": 4,
+        "max": 5,
+        "n_agree": 12
+      },
+      "Representativeness": {
+        "median": 4.0,
+        "mean": 4.08,
+        "std": 0.29,
+        "iqr": 0.0,
+        "ivc": 1.0,
+        "min": 4,
+        "max": 5,
+        "n_agree": 12
+      },
+      "Utility": {
+        "median": 4.0,
+        "mean": 4.17,
+        "std": 0.39,
+        "iqr": 0.0,
+        "ivc": 1.0,
+        "min": 4,
+        "max": 5,
+        "n_agree": 12
+      }
+    }
+  },
+  "section_C": {
+    "C1: Sufficiency of 7 dimensions": {
+      "median": 5.0,
+      "mean": 4.58,
+      "std": 0.51,
+      "iqr": 1.0,
+      "ivc": 1.0,
+      "min": 4,
+      "max": 5,
+      "n_agree": 12
+    },
+    "C2: Representativeness of 8 profiles": {
+      "median": 4.0,
+      "mean": 4.33,
+      "std": 0.49,
+      "iqr": 1.0,
+      "ivc": 1.0,
+      "min": 4,
+      "max": 5,
+      "n_agree": 12
+    },
+    "C3: Superiority over tripartite classification": {
+      "median": 5.0,
+      "mean": 4.83,
+      "std": 0.39,
+      "iqr": 0.0,
+      "ivc": 1.0,
+      "min": 4,
+      "max": 5,
+      "n_agree": 12
+    },
+    "C4: Appropriateness of fuzzy formalization": {
+      "median": 4.5,
+      "mean": 4.5,
+      "std": 0.52,
+      "iqr": 1.0,
+      "ivc": 1.0,
+      "min": 4,
+      "max": 5,
+      "n_agree": 12
+    },
+    "C5: OWA calibration coherence": {
+      "median": 4.0,
+      "mean": 4.33,
+      "std": 0.49,
+      "iqr": 1.0,
+      "ivc": 1.0,
+      "min": 4,
+      "max": 5,
+      "n_agree": 12
+    }
+  },
+  "kendall_W_A": {
+    "W": 0.3176,
+    "chi2": 22.87,
+    "df": 6,
+    "p": 0.000843
+  },
+  "kendall_W_B": {
+    "W": 0.3537,
+    "chi2": 29.71,
+    "df": 7,
+    "p": 0.000107
+  },
+  "kendall_W_C": {
+    "W": 0.1076,
+    "chi2": 5.17,
+    "df": 4,
+    "p": 0.27062
+  },
+  "kendall_W_overall": {
+    "W": 0.2781,
+    "chi2": 63.41,
+    "df": 19,
+    "p": 1e-06
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "section_A": {
+    "D1": {
+      "Clarity": "Validated with minor adjustments",
+      "Relevance": "Validated with minor adjustments",
+      "Independence": "Validated with minor adjustments",
+      "Operationalizability": "Validated with minor adjustments"
+    },
+    "D5": {
+      "Clarity": "Validated with minor adjustments",
+      "Relevance": "Validated with minor adjustments",
+      "Independence": "Validated with minor adjustments",
+      "Operationalizability": "Validated with minor adjustments"
+    },
+    "D4": {
+      "Clarity": "Validated with minor adjustments",
+      "Relevance": "Validated with minor adjustments",
+      "Independence": "Validated with minor adjustments",
+      "Operationalizability": "Validated with minor adjustments"
+    },
+    "D10": {
+      "Clarity": "Validated with minor adjustments",
+      "Relevance": "Validated with minor adjustments",
+      "Independence": "Second round with feedback",
+      "Operationalizability": "Validated with minor adjustments"
+    },
+    "D8": {
+      "Clarity": "Validated with minor adjustments",
+      "Relevance": "Validated with minor adjustments",
+      "Independence": "Validated with minor adjustments",
+      "Operationalizability": "Validated with minor adjustments"
+    },
+    "D7": {
+      "Clarity": "Second round with feedback",
+      "Relevance": "Validated with minor adjustments",
+      "Independence": "Validated with minor adjustments",
+      "Operationalizability": "Second round with feedback"
+    },
+    "D12": {
+      "Clarity": "Second round with feedback",
+      "Relevance": "Validated with minor adjustments",
+      "Independence": "Second round with feedback",
+      "Operationalizability": "Validated with minor adjustments"
+    }
+  },
+  "section_B": {
+    "P1": {
+      "Internal Coherence": "Validated with minor adjustments",
+      "Differentiation": "Validated with minor adjustments",
+      "Representativeness": "Validated with minor adjustments",
+      "Utility": "Validated with minor adjustments"
+    },
+    "P2": {
+      "Internal Coherence": "Validated with minor adjustments",
+      "Differentiation": "Validated with minor adjustments",
+      "Representativeness": "Validated with minor adjustments",
+      "Utility": "Validated with minor adjustments"
+    },
+    "P3": {
+      "Internal Coherence": "Validated with minor adjustments",
+      "Differentiation": "Second round with feedback",
+      "Representativeness": "Validated with minor adjustments",
+      "Utility": "Validated with minor adjustments"
+    },
+    "P4": {
+      "Internal Coherence": "Validated with minor adjustments",
+      "Differentiation": "Validated with minor adjustments",
+      "Representativeness": "Validated with minor adjustments",
+      "Utility": "Validated with minor adjustments"
+    },
+    "P5": {
+      "Internal Coherence": "Validated with minor adjustments",
+      "Differentiation": "Second round with feedback",
+      "Representativeness": "Validated with minor adjustments",
+      "Utility": "Validated with minor adjustments"
+    },
+    "P6": {
+      "Internal Coherence": "Validated with minor adjustments",
+      "Differentiation": "Validated with minor adjustments",
+      "Representativeness": "Validated with minor adjustments",
+      "Utility": "Validated with minor adjustments"
+    },
+    "P7": {
+      "Internal Coherence": "Validated with minor adjustments",
+      "Differentiation": "Validated with minor adjustments",
+      "Representativeness": "Validated with minor adjustments",
+      "Utility": "Validated with minor adjustments"
+    },
+    "P8": {
+      "Internal Coherence": "Validated with minor adjustments",
+      "Differentiation": "Validated with minor adjustments",
+      "Representativeness": "Validated with minor adjustments",
+      "Utility": "Validated with minor adjustments"
+    }
+  },
+  "section_C": {
+    "C1: Sufficiency of 7 dimensions": "Validated with minor adjustments",
+    "C2: Representativeness of 8 profiles": "Validated with minor adjustments",
+    "C3: Superiority over tripartite classification": "Validated with minor adjustments",
+    "C4: Appropriateness of fuzzy formalization": "Validated with minor adjustments",
+    "C5: OWA calibration coherence": "Validated with minor adjustments"
+  }
+}

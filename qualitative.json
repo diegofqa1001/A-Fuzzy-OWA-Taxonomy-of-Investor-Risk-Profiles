@@ -1,0 +1,93 @@
+{
+  "section_A": {
+    "D1": [
+      "E01: Well-defined dimension with strong theoretical backing from MPT and prospect theory.",
+      "E06: Consider specifying whether this refers to subjective or objective risk tolerance.",
+      "E10: The trapezoidal membership function is appropriate given the gradual transitions."
+    ],
+    "D5": [
+      "E01: Core dimension, well-grounded in Kahneman & Tversky (1979). Essential.",
+      "E03: Some overlap with D1 should be explicitly discussed — related but distinct constructs.",
+      "E07: The asymmetry captured by this dimension is precisely what OWA operators can model."
+    ],
+    "D4": [
+      "E02: Important dimension often overlooked in traditional profiling. Good inclusion.",
+      "E09: Operationalization through self-report scales (e.g., Lown, 2011) should be referenced."
+    ],
+    "D10": [
+      "E04: Crucial given Knightian uncertainty. Independence from D1 needs stronger justification.",
+      "E10: Clarify boundary between risk (known probabilities) and ambiguity (unknown probabilities).",
+      "E12: Distinction is theoretically sound (Ellsberg, 1961) but empirically challenging."
+    ],
+    "D8": [
+      "E05: Very clear dimension with direct operational implications for portfolio construction.",
+      "E11: Consider whether this should be continuous rather than categorical."
+    ],
+    "D7": [
+      "E02: Operationalization is the main challenge. Reference validated instruments (DERS).",
+      "E06: Captures behavioral biases like panic selling and euphoric buying effectively."
+    ],
+    "D12": [
+      "E03: Consider whether this overlaps with herding behavior in financial markets.",
+      "E05: Independence from other dimensions needs stronger justification.",
+      "E08: The inverse coding (high = high susceptibility) should be clarified.",
+      "E10: May benefit from being split into 'peer influence' and 'media influence'."
+    ]
+  },
+  "section_B": {
+    "P1": [
+      "E01: Classic conservative profile, well-characterized and recognizable.",
+      "E06: High social influence score is an interesting nuance."
+    ],
+    "P2": [
+      "E04: Good differentiation from P1. Moderate self-efficacy distinguishes it.",
+      "E07: OWA weight vector should reflect the prudent but not extreme nature."
+    ],
+    "P3": [
+      "E03: 'All moderate' profile is theoretically valid but may be hard to distinguish empirically.",
+      "E05: Consider whether this represents a true type or undifferentiated responses.",
+      "E09: In recommendation systems, this would default to balanced portfolios — useful baseline."
+    ],
+    "P4": [
+      "E01: Well-defined strategic investor. High risk tolerance + high emotional regulation is coherent."
+    ],
+    "P5": [
+      "E02: Moderate emotional regulation + high risk tolerance is realistic and important.",
+      "E06: Captures the 'overconfident' investor well."
+    ],
+    "P6": [
+      "E04: Excellent archetype — the 'quant' investor. Very low social influence + very high self-efficacy.",
+      "E11: Clear implications for recommendation design — these investors want data, not advice."
+    ],
+    "P7": [
+      "E05: Very high ambiguity tolerance with long horizon captures VC/emerging market investors.",
+      "E08: Differentiation from P4 (Strategist) could be strengthened."
+    ],
+    "P8": [
+      "E01: Most extreme profile. Theoretically coherent but may represent a small fraction.",
+      "E03: This profile exists — crypto early adopters, for instance.",
+      "E10: Serves as the boundary condition, which is mathematically necessary."
+    ]
+  },
+  "section_C": {
+    "additional_dimensions": [
+      "E02: Consider 'Financial Literacy' as separate from Self-efficacy.",
+      "E06: 'Cultural Background' could be relevant cross-culturally.",
+      "E10: The 7 dimensions balance comprehensiveness and parsimony well.",
+      "E12: No additional dimensions suggested. Current set is well-justified by PRISMA."
+    ],
+    "profile_modifications": [
+      "E03: P3 could be defined as a range around moderate rather than exactly moderate.",
+      "E05: Consider an 'Impulsive Trader' profile — high risk, low regulation, short horizon.",
+      "E07: The 8 profiles provide adequate coverage. More would risk overfitting.",
+      "E09: The gradient from P1 to P8 is well-constructed."
+    ],
+    "general": [
+      "E01: Significant advance over the tripartite classification. Fuzzy formalization is elegant.",
+      "E06: The behavioral-OWA link is novel and bridges theory to recommendation systems.",
+      "E08: OWA formalization adds rigor and reproducibility to behavioral profiling.",
+      "E10: Strong contribution. Emphasize explainability advantage over black-box ML.",
+      "E11: Pseudocode for implementation would significantly increase practical impact."
+    ]
+  }
+}

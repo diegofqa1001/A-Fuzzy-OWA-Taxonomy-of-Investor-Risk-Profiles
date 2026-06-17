@@ -1,0 +1,13 @@
+id,sub,aff,country,area,years,gender
+E01,A,Universitat de Barcelona,Spain,"Behavioral Finance, Prospect Theory",15-20,M
+E02,A,University of Technology Sydney,Australia,"Financial Psychology, Risk Perception",10-15,F
+E03,A,Universidad Nacional de Colombia,Colombia,"Risk Management, Financial Decision Making",15-20,F
+E04,A,Universidade de São Paulo,Brazil,"Behavioral Economics, Investor Profiling",10-15,M
+E05,A,Universidad de La Salle Bajío,Mexico,"Portfolio Management, Behavioral Finance",10-15,M
+E06,A,UCSC Concepción,Chile,"Behavioral Economics, Risk Assessment",5-10,F
+E07,B,Universitat de Barcelona,Spain,"OWA Operators, Fuzzy Decision Making",15-20,M
+E08,B,UNAM,Mexico,"Fuzzy Decision Systems, Computational Intelligence",10-15,M
+E09,B,UPTC,Colombia,"Recommender Systems, Machine Learning",10-15,F
+E10,B,Universidade Federal do RS,Brazil,"Computational Intelligence, Fuzzy Sets",15-20,M
+E11,B,Universidad de Occidente,Mexico,"Aggregation Operators, OWA Applications",5-10,M
+E12,B,Universidad de Chile,Chile,"Fuzzy Portfolio Theory, Applied Statistics",5-10,M
