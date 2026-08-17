@@ -36,6 +36,7 @@ This repository contains the replication materials, data, and code for an expand
 │   ├── delphi_analysis.py               # Delphi statistical analysis (Kendall W, Lawshe IVC)
 │   ├── generate_figures.py              # Reproduce all Delphi validation figures
 │   ├── verify_math.py                   # Mathematical verification suite (5 tests)
+│   ├── check_reproducibility.py         # Frozen values vs. fresh optimizer run (see note above)
 │   └── requirements.txt                 # Python dependencies
 │
 ├── LICENSE
@@ -55,6 +56,20 @@ This repository contains the replication materials, data, and code for an expand
 | P5 | Adventurer | 0.70 | 0.477 | 0.693 | Moderate-Strong OR |
 | P7 | Innovator | 0.75 | 0.389 | 0.738 | Strong OR |
 | P8 | Visionary | 0.90 | 0.176 | 0.865 | Very Strong OR (optimistic) |
+
+> **Reproducibility note (added 2026-08-17).** The α and orness values above are the
+> **frozen, originally published values**, stored verbatim in `data/owa/owa_profiles.json`
+> and cited in the thesis (Table 3.4, Figure 3.2) and in the downstream repositories
+> (`repo_OWA`'s `ORNESS_PERFIL`, `motor-owa-v2`'s `TAXONOMY_ORNESS`). Running
+> `code/owa_weights.py` **today**, with the optimizer configuration currently in the
+> repository, converges instead to the *exact centroid* of each profile (e.g. Guardian:
+> α=4.184, orness=0.150, not 0.158; the largest gap is Visionary, α=0.127 vs. 0.176,
+> orness 0.900 vs. 0.865). This is not a numerical-precision artifact — the fresh run is
+> stable and internally consistent — it indicates the frozen values were produced by an
+> earlier optimizer configuration no longer present in this repository. Run
+> `python code/check_reproducibility.py` to see the full comparison. The frozen values
+> remain the ones to cite; this note exists so that reproducing this repository from
+> scratch does not read as a silent discrepancy.
 
 ## Quick Start
 
@@ -77,6 +92,15 @@ This runs 5 verification tests:
 3. **Monotonicity**: Orness strictly increasing with centroid
 4. **Normalization**: All weight vectors sum to 1.0
 5. **Δ spread**: F₈ − F₁ = 42.4 percentage points
+
+Note that `verify_math.py` checks only the **internal** consistency of the values stored
+in `data/owa/owa_profiles.json` (that α reproduces W, that W reproduces the reported
+orness, monotonicity, normalization). It does not check whether that file matches a
+fresh run of `owa_weights.py`. For that comparison, run:
+
+```bash
+python check_reproducibility.py
+```
 
 ### Reproduce Delphi Analysis
 
