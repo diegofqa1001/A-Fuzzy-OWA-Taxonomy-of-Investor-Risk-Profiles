@@ -4,7 +4,13 @@ Mathematical Verification Suite
 =================================
 
 Runs 5 independent verification tests on the OWA weight vectors
-reported in the article to confirm internal consistency.
+stored in data/owa/owa_profiles.json to confirm internal consistency.
+
+Note: this checks only that the stored file is self-consistent (alpha
+reproduces W, W reproduces the reported orness, monotonicity,
+normalization, delta spread). It does NOT check whether the stored
+values match a fresh run of owa_weights.py -- see check_reproducibility.py
+for that comparison and the documented reason they currently differ.
 
 Tests:
     1. alpha -> W: Weight generation from RIM quantifier reproduces reported W
