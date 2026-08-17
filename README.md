@@ -4,7 +4,7 @@
 
 ## Overview
 
-This repository contains the replication materials, data, and code for the research article proposing a paradigm shift in investor risk profiling: replacing the static tripartite classification (conservative–moderate–aggressive) with an expanded taxonomy of **eight behavioral risk profiles** formalized through fuzzy linguistic vectors and calibrated via **Ordered Weighted Averaging (OWA) operators** using Yager's Regular Increasing Monotone (RIM) quantifier.
+This repository contains the replication materials, data, and code for an expanded taxonomy of investor risk profiling: replacing the static tripartite classification (conservative–moderate–aggressive) with an expanded taxonomy of **eight behavioral risk profiles** formalized through fuzzy linguistic vectors and calibrated via **Ordered Weighted Averaging (OWA) operators** using Yager's Regular Increasing Monotone (RIM) quantifier. This work is part of a doctoral thesis in Administration at the Universidad Nacional de Colombia, Sede Manizales.
 
 ### Key Contributions
 
@@ -14,23 +14,20 @@ This repository contains the replication materials, data, and code for the resea
 
 3. **RIM quantifier-based weight derivation** providing a theoretically grounded, auditable, and reproducible weight generation mechanism: $w_j = Q(j/n) - Q((j-1)/n)$ where $Q(r) = r^\alpha$.
 
-4. **Modified Delphi validation** with 12 international experts (6 behavioral finance, 6 fuzzy methods) from 6 countries achieving 89.2% consensus (Md ≥ 4, IVC ≥ 0.78) with statistically significant inter-rater concordance (Kendall's W = 0.278, p < 0.001).
+4. **Modified Delphi validation** with a synthetic 12-agent panel (6 behavioral finance profile, 6 fuzzy methods profile) as a computational pre-validation / proof-of-concept step — **not a substitute for a human expert panel**. Results are reported as a methodological reference pending the confirmatory round with real experts.
 
 ## Repository Structure
 
 ```
-├── manuscript/
-│   └── Articulo_2_V7_Springer.docx     # Full article (Spanish body, English tables/figures)
-│
 ├── data/
 │   ├── delphi/
-│   │   ├── expert_panel.csv             # Panel composition (12 experts, 6 countries)
-│   │   ├── raw_section_A.csv            # Raw Likert ratings — Section A (dimensions)
-│   │   ├── raw_section_B.csv            # Raw Likert ratings — Section B (profiles)
-│   │   ├── raw_section_C.csv            # Raw Likert ratings — Section C (global system)
+│   │   ├── expert_panel.csv             # Synthetic panel composition
+│   │   ├── raw_section_A.csv            # Raw ratings — Section A (dimensions)
+│   │   ├── raw_section_B.csv            # Raw ratings — Section B (profiles)
+│   │   ├── raw_section_C.csv            # Raw ratings — Section C (global system)
 │   │   ├── results.json                 # Computed statistics (Kendall W, Lawshe IVC, medians)
 │   │   ├── decisions.json               # Consensus decisions per item
-│   │   └── qualitative.json             # Expert qualitative observations
+│   │   └── qualitative.json             # Qualitative observations
 │   └── owa/
 │       └── owa_profiles.json            # OWA weight vectors, α values, orness for 8 profiles
 │
@@ -40,17 +37,6 @@ This repository contains the replication materials, data, and code for the resea
 │   ├── generate_figures.py              # Reproduce all Delphi validation figures
 │   ├── verify_math.py                   # Mathematical verification suite (5 tests)
 │   └── requirements.txt                 # Python dependencies
-│
-├── figures/
-│   ├── fig_delphi_concordance.png       # Kendall's W by section
-│   ├── fig_delphi_dimensions.png        # IVC heatmap for dimension items
-│   ├── fig_delphi_profiles.png          # IVC heatmap for profile items
-│   ├── fig_delphi_global.png            # Global system evaluation
-│   ├── fig_delphi_ivc.png               # IVC distribution across all items
-│   └── fig_delphi_subpanel_comparison.png  # Subpanel A vs B comparison
-│
-├── validation/
-│   └── Protocolo_Validacion_Expertos.docx  # Expert validation protocol (65 items)
 │
 ├── LICENSE
 ├── .gitignore
@@ -88,7 +74,7 @@ python verify_math.py
 This runs 5 verification tests:
 1. **α → W**: Weight generation from RIM quantifier
 2. **W → orness**: Direct computation from weight vectors
-3. **Monotonicity**: Proposition 1 (orness strictly increasing with centroid)
+3. **Monotonicity**: Orness strictly increasing with centroid
 4. **Normalization**: All weight vectors sum to 1.0
 5. **Δ spread**: F₈ − F₁ = 42.4 percentage points
 
@@ -120,17 +106,16 @@ All figures use the **Okabe-Ito** colorblind-friendly palette on a white backgro
 
 ## Citation
 
-If you use this work, please cite:
+If you use this work, please cite the software directly:
 
 ```bibtex
-@article{quintero2026fuzzy,
-  title={Beyond the Conservative--Moderate--Aggressive Triad: An Expanded Behavioral
-         Taxonomy of Investor Risk Profiles Formalized through Fuzzy Linguistic
-         Vectors and OWA Operators},
+@software{quintero2026fuzzytaxonomy,
+  title={A Fuzzy-OWA Taxonomy of Investor Risk Profiles: Replication Code and Data},
   author={Quintero-Avellaneda, Diego and Ram{\'\i}rez-Angulo, Pedro Juli{\'a}n
           and Le{\'o}n-Castro, Ernesto},
-  journal={Manuscript submitted for publication},
-  year={2026}
+  year={2026},
+  url={https://github.com/diegofqa1001/A-Fuzzy-OWA-Taxonomy-of-Investor-Risk-Profiles},
+  license={MIT}
 }
 ```
 
@@ -142,8 +127,8 @@ If you use this work, please cite:
 
 ## License
 
-This work is licensed under the [MIT License](LICENSE). The data and manuscript are provided for academic review and reproducibility purposes.
+This work is licensed under the [MIT License](LICENSE). The data are provided for academic review and reproducibility purposes.
 
 ## Acknowledgments
 
-This research is part of a doctoral thesis in Administration at the Universidad Nacional de Colombia, Sede Manizales. We thank the 12 international experts who participated in the Delphi validation panel.
+This research is part of a doctoral thesis in Administration at the Universidad Nacional de Colombia, Sede Manizales.
