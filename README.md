@@ -8,7 +8,7 @@ This repository contains the replication materials, data, and code for an expand
 
 ### Key Contributions
 
-1. **Seven behavioral dimensions** identified through a PRISMA 2020 systematic review of 78 studies (2019–2026) indexed in Scopus and Web of Science, spanning cognitive, emotional-affective, contextual-situational, and sociocultural-identity domains.
+1. **Seven behavioral dimensions** spanning cognitive, emotional-affective, contextual-situational, and sociocultural-identity domains. *Correction (2026-09-02):* the figure "78 studies" reported in earlier versions of this README came from a superseded review that could not be verified; the systematic review that now supports the dimensions is fully documented in [`prisma-repo`](https://github.com/diegofqa1001/prisma-repo) (PRISMA 2020: 727 records identified, 560 screened, 343 provisionally included at title/abstract level, 14 candidate dimensions coded in `08-sintesis/` and reduced to the seven used here).
 
 2. **Eight prototypical investor profiles** (Guardian → Visionary) formalized as fuzzy linguistic vectors with explicit OWA aggregation semantics, producing up to **42.4 percentage points** of difference in asset evaluation depending on profile assignment.
 
