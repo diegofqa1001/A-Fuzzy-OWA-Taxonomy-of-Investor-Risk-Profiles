@@ -189,7 +189,15 @@ def main():
     print()
 
     # W_obs / W_max ratio
-    W_max = 0.412  # Theoretical maximum for this distribution
+    # Upper bound of the uncorrected W given each rater's tie structure
+    # (Meijering et al., 2013): W_max = 1 - sum_j T_j / [m (n^3 - n)].
+    # The ratio W_obs/W_max equals the tie-corrected W (see code/panel_sintetico.py).
+    n_it, m_r = global_ratings.shape
+    T = 0.0
+    for j in range(m_r):
+        _, t = np.unique(global_ratings[:, j], return_counts=True)
+        T += float((t ** 3 - t).sum())
+    W_max = 1 - T / (m_r * (n_it ** 3 - n_it))
     ratio = W_global / W_max
     print(f"    W_obs/W_max = {W_global:.3f}/{W_max:.3f} = {ratio:.3f}")
     print(f"    → {ratio * 100:.1f}% of maximum achievable concordance")

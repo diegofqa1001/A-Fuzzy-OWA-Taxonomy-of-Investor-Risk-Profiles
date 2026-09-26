@@ -12,7 +12,7 @@ Ejecutar owa_weights.py HOY, con la configuracion actual del optimizador
 (scipy.optimize.minimize_scalar, bounded, xatol=1e-4), converge al
 CENTROIDE EXACTO de cada perfil (orness = centroide hasta la 6a cifra
 decimal) en vez de a esos valores originales -- una diferencia de hasta
-0.008 en orness, no explicada por precision numerica ni por version de
+0.034 en orness (Visionary; 0.012 en Innovator), no explicada por precision numerica ni por version de
 SciPy (ver detalle mas abajo).
 
 Este script hace esa comparacion EXPLICITA, en vez de dejar que la unica
