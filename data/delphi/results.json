@@ -707,6 +707,15 @@
     "W": 0.2781,
     "chi2": 63.41,
     "df": 19,
-    "p": 1e-06
+    "p": 1e-06,
+    "especificacion": "20 objetos (7 dimensiones + 8 perfiles + 5 ítems globales; media de criterios por objeto), 12 agentes, sin corrección por empates"
+  },
+  "kendall_W_65_items_corregida": {
+    "W": 0.2021,
+    "W_sin_correccion": 0.1547,
+    "chi2": 155.19,
+    "df": 64,
+    "p": 1.536005767298927e-09,
+    "especificacion": "65 ítems, 12 agentes, corrección por empates (Schmidt, 1997); ver code/panel_sintetico.py"
   }
 }

@@ -1,0 +1,372 @@
+{
+  "semilla": 2026,
+  "n_items": 65,
+  "n_agentes": 12,
+  "estatus": "simulación (panel sintético)",
+  "referencia": {
+    "validados": 58,
+    "segunda_ronda": 7,
+    "revision_mayor": 0,
+    "tasa_consenso": 0.8923076923076924,
+    "items_segunda_ronda": [
+      "A:D10:Independence",
+      "A:D7:Clarity",
+      "A:D7:Operationalizability",
+      "A:D12:Clarity",
+      "A:D12:Independence",
+      "B:P3:Differentiation",
+      "B:P5:Differentiation"
+    ],
+    "kendall_65_items": {
+      "W_sin_correccion": 0.1546668609168609,
+      "W_corregida": 0.20207105542615095,
+      "chi2": 155.19057056728394,
+      "gl": 64,
+      "p": 1.536005767298927e-09,
+      "W_max_sin_correccion": 0.7654082896270397,
+      "razon_Wobs_Wmax": 0.20207105542615092
+    },
+    "kendall_20_objetos": {
+      "W_sin_correccion": 0.2781223893065998,
+      "gl": 19,
+      "W_corregida": 0.2952137093198546,
+      "p_corregida": 2.561467303162598e-07
+    },
+    "por_seccion": {
+      "A": {
+        "W_sin_correccion": 0.1659292708143283,
+        "W_corregida": 0.21104181774232536,
+        "chi2": 68.37754894851342,
+        "gl": 27,
+        "p": 1.9053915816907172e-05,
+        "W_max_sin_correccion": 0.7862388250319285,
+        "razon_Wobs_Wmax": 0.21104181774232533
+      },
+      "B": {
+        "W_sin_correccion": 0.1469406769305963,
+        "W_corregida": 0.20066118805272817,
+        "chi2": 74.64596195561488,
+        "gl": 31,
+        "p": 1.8310047000791604e-05,
+        "W_max_sin_correccion": 0.7322825024437928,
+        "razon_Wobs_Wmax": 0.20066118805272817
+      },
+      "C": {
+        "W_sin_correccion": 0.1076388888888889,
+        "W_corregida": 0.16145833333333334,
+        "chi2": 7.75,
+        "gl": 4,
+        "p": 0.10117739713428624,
+        "W_max_sin_correccion": 0.6666666666666667,
+        "razon_Wobs_Wmax": 0.16145833333333331
+      }
+    }
+  },
+  "modelo": {
+    "convergencia": true,
+    "kappa_fuera_de_dominio": 0.9950251267106788,
+    "items_tecnicos": [
+      "B:P1:Internal Coherence",
+      "B:P2:Internal Coherence",
+      "B:P3:Internal Coherence",
+      "B:P4:Internal Coherence",
+      "B:P5:Internal Coherence",
+      "B:P6:Internal Coherence",
+      "B:P7:Internal Coherence",
+      "B:P8:Internal Coherence",
+      "C:C4:C4: Appropriateness of fuzzy formalization",
+      "C:C5:C5: OWA calibration coherence"
+    ],
+    "agentes": {
+      "E01": {
+        "subpanel": "A",
+        "b": 0.219072016303037,
+        "sigma": 0.3661041336556097
+      },
+      "E02": {
+        "subpanel": "A",
+        "b": -0.04964671708952289,
+        "sigma": 0.4393451130462662
+      },
+      "E03": {
+        "subpanel": "A",
+        "b": 0.10637338256544987,
+        "sigma": 0.39862295010765497
+      },
+      "E04": {
+        "subpanel": "A",
+        "b": -0.025420400393575397,
+        "sigma": 0.4964582369996244
+      },
+      "E05": {
+        "subpanel": "A",
+        "b": 0.06654232231898537,
+        "sigma": 0.43657946223738425
+      },
+      "E06": {
+        "subpanel": "A",
+        "b": -0.1308553144576029,
+        "sigma": 0.391229706141657
+      },
+      "E07": {
+        "subpanel": "B",
+        "b": 0.12277347632587719,
+        "sigma": 0.5676807126943999
+      },
+      "E08": {
+        "subpanel": "B",
+        "b": 0.11250148187366663,
+        "sigma": 0.5031881471522385
+      },
+      "E09": {
+        "subpanel": "B",
+        "b": 0.16499518303320598,
+        "sigma": 0.5133764563943732
+      },
+      "E10": {
+        "subpanel": "B",
+        "b": -0.05314355799255692,
+        "sigma": 0.5271742990680831
+      },
+      "E11": {
+        "subpanel": "B",
+        "b": 0.1667672042094253,
+        "sigma": 0.4987660895450677
+      },
+      "E12": {
+        "subpanel": "B",
+        "b": 0.14534015101161507,
+        "sigma": 0.4851955517171368
+      }
+    },
+    "distribucion_agentes": {
+      "bA": 0.031010881541128504,
+      "bB": 0.10987232307687218,
+      "sd_b": 0.10605698335155574,
+      "lsA": -0.8690913336635094,
+      "lsB": -0.6631297517964456,
+      "sd_ls": 0.08559550334330218,
+      "kappa": 0.9950251267106788
+    },
+    "mu_items": {
+      "A:D1:Clarity": 4.674998480877907,
+      "A:D1:Relevance": 4.538841205150371,
+      "A:D1:Independence": 4.251194950518914,
+      "A:D1:Operationalizability": 4.4522267348007185,
+      "A:D5:Clarity": 4.517214445322698,
+      "A:D5:Relevance": 4.847385522506735,
+      "A:D5:Independence": 3.9998341351013016,
+      "A:D5:Operationalizability": 4.333291312221867,
+      "A:D4:Clarity": 4.452563641074385,
+      "A:D4:Relevance": 4.748887144308176,
+      "A:D4:Independence": 4.204720071400238,
+      "A:D4:Operationalizability": 4.160261204294504,
+      "A:D10:Clarity": 4.308190212152364,
+      "A:D10:Relevance": 4.5482446490357615,
+      "A:D10:Independence": 3.696388585808709,
+      "A:D10:Operationalizability": 4.076485019980743,
+      "A:D8:Clarity": 4.760647781965527,
+      "A:D8:Relevance": 4.473836181672344,
+      "A:D8:Independence": 4.612212949698955,
+      "A:D8:Operationalizability": 4.411663615357783,
+      "A:D7:Clarity": 4.164223963252245,
+      "A:D7:Relevance": 4.47018593647744,
+      "A:D7:Independence": 4.310397649766142,
+      "A:D7:Operationalizability": 4.083075702513465,
+      "A:D12:Clarity": 3.9521541738582946,
+      "A:D12:Relevance": 3.930923407090124,
+      "A:D12:Independence": 3.692623431863709,
+      "A:D12:Operationalizability": 4.224010644922572,
+      "B:P1:Internal Coherence": 4.560159369043507,
+      "B:P1:Differentiation": 4.559692079743528,
+      "B:P1:Representativeness": 4.760893033688889,
+      "B:P1:Utility": 4.57794982717929,
+      "B:P2:Internal Coherence": 4.664390146593038,
+      "B:P2:Differentiation": 4.380004888466939,
+      "B:P2:Representativeness": 4.428835436178051,
+      "B:P2:Utility": 4.40764972306772,
+      "B:P3:Internal Coherence": 4.289084041469708,
+      "B:P3:Differentiation": 3.768904915908512,
+      "B:P3:Representativeness": 4.065350838720756,
+      "B:P3:Utility": 4.03425152201651,
+      "B:P4:Internal Coherence": 4.427689829569617,
+      "B:P4:Differentiation": 4.35772199968373,
+      "B:P4:Representativeness": 4.429136258332903,
+      "B:P4:Utility": 4.375231259998698,
+      "B:P5:Internal Coherence": 4.278887471176599,
+      "B:P5:Differentiation": 3.9174203978842472,
+      "B:P5:Representativeness": 4.215578946881031,
+      "B:P5:Utility": 3.927635977354851,
+      "B:P6:Internal Coherence": 5.093345993703743,
+      "B:P6:Differentiation": 4.448772846477278,
+      "B:P6:Representativeness": 4.365982663750674,
+      "B:P6:Utility": 4.729982790293705,
+      "B:P7:Internal Coherence": 4.501427554314432,
+      "B:P7:Differentiation": 4.5681772549042,
+      "B:P7:Representativeness": 4.090135807136031,
+      "B:P7:Utility": 4.551322104571768,
+      "B:P8:Internal Coherence": 4.350209892127601,
+      "B:P8:Differentiation": 4.273829868283446,
+      "B:P8:Representativeness": 4.035689520035635,
+      "B:P8:Utility": 4.1557535448169745,
+      "C:C1:C1: Sufficiency of 7 dimensions": 4.528563317807578,
+      "C:C2:C2: Representativeness of 8 profiles": 4.259465223051839,
+      "C:C3:C3: Superiority over tripartite classification": 4.9118953291733085,
+      "C:C4:C4: Appropriateness of fuzzy formalization": 4.418446216142989,
+      "C:C5:C5: OWA calibration coherence": 4.2796259393372065
+    },
+    "previas": {
+      "mu": [
+        4.3,
+        1.0
+      ],
+      "b": [
+        0.0,
+        0.5
+      ],
+      "log_sigma": [
+        -0.5108256237659907,
+        0.5
+      ],
+      "log_kappa": [
+        0.0,
+        0.5
+      ]
+    }
+  },
+  "verificacion_modelo_agentes_ajustados": {
+    "media": 0.8577846153846156,
+    "p2_5": 0.7846153846153846,
+    "p97_5": 0.9230769230769231,
+    "min": 0.7538461538461538,
+    "max": 0.9538461538461539
+  },
+  "R1_N12": {
+    "tasa_consenso": {
+      "media": 0.8614000000000002,
+      "p2_5": 0.7846153846153846,
+      "p97_5": 0.9234615384615381,
+      "min": 0.7230769230769231,
+      "max": 0.9692307692307692
+    },
+    "W_corregida": {
+      "media": 0.26130839598775085,
+      "p2_5": 0.21332281822466295,
+      "p97_5": 0.3089369805432745,
+      "min": 0.17790309177702898,
+      "max": 0.33349896857177525
+    },
+    "fraccion_p_menor_0_001": 1.0,
+    "items_fragiles_prob_menor_0_5": [
+      [
+        "A:D10:Independence",
+        0.105
+      ],
+      [
+        "A:D12:Relevance",
+        0.477
+      ],
+      [
+        "A:D12:Independence",
+        0.088
+      ],
+      [
+        "B:P3:Differentiation",
+        0.173
+      ],
+      [
+        "B:P5:Differentiation",
+        0.432
+      ],
+      [
+        "B:P5:Utility",
+        0.46
+      ]
+    ],
+    "n_items_fragiles": 6,
+    "prob_consenso_items_segunda_ronda_referencia": {
+      "A:D10:Independence": 0.105,
+      "A:D7:Clarity": 0.853,
+      "A:D7:Operationalizability": 0.752,
+      "A:D12:Clarity": 0.513,
+      "A:D12:Independence": 0.088,
+      "B:P3:Differentiation": 0.173,
+      "B:P5:Differentiation": 0.432
+    }
+  },
+  "R2_N_variable": {
+    "tasa_consenso": {
+      "media": 0.8190307692307693,
+      "p2_5": 0.6615384615384615,
+      "p97_5": 0.9384615384615385,
+      "min": 0.5230769230769231,
+      "max": 0.9538461538461539
+    }
+  },
+  "R3_tamano_panel": {
+    "8": {
+      "tasa_media": 0.7271076923076923,
+      "p2_5": 0.6153846153846154,
+      "p97_5": 0.8461538461538461,
+      "acuerdo_minimo_exigido": "8/8",
+      "proporcion_minima": 1.0
+    },
+    "9": {
+      "tasa_media": 0.702276923076923,
+      "p2_5": 0.5846153846153846,
+      "p97_5": 0.8153846153846154,
+      "acuerdo_minimo_exigido": "9/9",
+      "proporcion_minima": 1.0
+    },
+    "10": {
+      "tasa_media": 0.8872769230769233,
+      "p2_5": 0.8153846153846154,
+      "p97_5": 0.9538461538461539,
+      "acuerdo_minimo_exigido": "9/10",
+      "proporcion_minima": 0.9
+    },
+    "11": {
+      "tasa_media": 0.8707384615384617,
+      "p2_5": 0.8,
+      "p97_5": 0.9384615384615385,
+      "acuerdo_minimo_exigido": "10/11",
+      "proporcion_minima": 0.9090909090909091
+    },
+    "12": {
+      "tasa_media": 0.8624615384615386,
+      "p2_5": 0.7846153846153846,
+      "p97_5": 0.9230769230769231,
+      "acuerdo_minimo_exigido": "11/12",
+      "proporcion_minima": 0.9166666666666666
+    },
+    "13": {
+      "tasa_media": 0.8448153846153847,
+      "p2_5": 0.7692307692307693,
+      "p97_5": 0.9230769230769231,
+      "acuerdo_minimo_exigido": "12/13",
+      "proporcion_minima": 0.9230769230769231
+    },
+    "14": {
+      "tasa_media": 0.8371384615384617,
+      "p2_5": 0.7538461538461538,
+      "p97_5": 0.9080769230769227,
+      "acuerdo_minimo_exigido": "13/14",
+      "proporcion_minima": 0.9285714285714286
+    },
+    "15": {
+      "tasa_media": 0.8190923076923079,
+      "p2_5": 0.7384615384615385,
+      "p97_5": 0.8923076923076924,
+      "acuerdo_minimo_exigido": "14/15",
+      "proporcion_minima": 0.9333333333333333
+    },
+    "16": {
+      "tasa_media": 0.8113384615384617,
+      "p2_5": 0.7230769230769231,
+      "p97_5": 0.8923076923076924,
+      "acuerdo_minimo_exigido": "15/16",
+      "proporcion_minima": 0.9375
+    }
+  },
+  "R3_N_con_tasa_maxima": "10"
+}

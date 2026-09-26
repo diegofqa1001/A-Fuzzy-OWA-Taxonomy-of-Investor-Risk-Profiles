@@ -1,13 +1,13 @@
-id,sub,aff,country,area,years,gender
-E01,A,Universitat de Barcelona,Spain,"Behavioral Finance, Prospect Theory",15-20,M
-E02,A,University of Technology Sydney,Australia,"Financial Psychology, Risk Perception",10-15,F
-E03,A,Universidad Nacional de Colombia,Colombia,"Risk Management, Financial Decision Making",15-20,F
-E04,A,Universidade de São Paulo,Brazil,"Behavioral Economics, Investor Profiling",10-15,M
-E05,A,Universidad de La Salle Bajío,Mexico,"Portfolio Management, Behavioral Finance",10-15,M
-E06,A,UCSC Concepción,Chile,"Behavioral Economics, Risk Assessment",5-10,F
-E07,B,Universitat de Barcelona,Spain,"OWA Operators, Fuzzy Decision Making",15-20,M
-E08,B,UNAM,Mexico,"Fuzzy Decision Systems, Computational Intelligence",10-15,M
-E09,B,UPTC,Colombia,"Recommender Systems, Machine Learning",10-15,F
-E10,B,Universidade Federal do RS,Brazil,"Computational Intelligence, Fuzzy Sets",15-20,M
-E11,B,Universidad de Occidente,Mexico,"Aggregation Operators, OWA Applications",5-10,M
-E12,B,Universidad de Chile,Chile,"Fuzzy Portfolio Theory, Applied Statistics",5-10,M
+id,sub,aff,country,area,years,gender,tipo
+E01,A,Agente sintético (sin afiliación institucional),no aplica,"Behavioral Finance, Prospect Theory",15-20,M,agente_sintetico
+E02,A,Agente sintético (sin afiliación institucional),no aplica,"Financial Psychology, Risk Perception",10-15,F,agente_sintetico
+E03,A,Agente sintético (sin afiliación institucional),no aplica,"Risk Management, Financial Decision Making",15-20,F,agente_sintetico
+E04,A,Agente sintético (sin afiliación institucional),no aplica,"Behavioral Economics, Investor Profiling",10-15,M,agente_sintetico
+E05,A,Agente sintético (sin afiliación institucional),no aplica,"Portfolio Management, Behavioral Finance",10-15,M,agente_sintetico
+E06,A,Agente sintético (sin afiliación institucional),no aplica,"Behavioral Economics, Risk Assessment",5-10,F,agente_sintetico
+E07,B,Agente sintético (sin afiliación institucional),no aplica,"OWA Operators, Fuzzy Decision Making",15-20,M,agente_sintetico
+E08,B,Agente sintético (sin afiliación institucional),no aplica,"Fuzzy Decision Systems, Computational Intelligence",10-15,M,agente_sintetico
+E09,B,Agente sintético (sin afiliación institucional),no aplica,"Recommender Systems, Machine Learning",10-15,F,agente_sintetico
+E10,B,Agente sintético (sin afiliación institucional),no aplica,"Computational Intelligence, Fuzzy Sets",15-20,M,agente_sintetico
+E11,B,Agente sintético (sin afiliación institucional),no aplica,"Aggregation Operators, OWA Applications",5-10,M,agente_sintetico
+E12,B,Agente sintético (sin afiliación institucional),no aplica,"Fuzzy Portfolio Theory, Applied Statistics",5-10,M,agente_sintetico
