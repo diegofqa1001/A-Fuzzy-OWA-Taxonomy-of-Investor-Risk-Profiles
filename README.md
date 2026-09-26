@@ -156,3 +156,11 @@ This work is licensed under the [MIT License](LICENSE). The data are provided fo
 ## Acknowledgments
 
 This research is part of a doctoral thesis in Administration at the Universidad Nacional de Colombia, Sede Manizales.
+
+## Panel sintético de pre-validación (`code/panel_sintetico.py`)
+
+Simulación, sin valor de juicio experto humano. Los doce evaluadores de `data/delphi/` son **agentes sintéticos** (columna `tipo = agente_sintetico` en `expert_panel.csv`; sin afiliación institucional). `code/panel_sintetico.py` (semilla maestra 2026) aplica a la matriz archivada de 65 ítems × 12 agentes las reglas de decisión del Anexo A de la tesis, calcula la W de Kendall sobre los 65 ítems con y sin corrección por empates y la razón W_obs/W_max, ajusta un modelo generativo de agentes (latente normal discretizada: nivel del ítem, severidad y consistencia del agente, inflación fuera de dominio) y ejecuta 1.000 réplicas con N = 12, 1.000 réplicas con N variable (8–16) y composición variable, y el análisis de tamaño de panel (N = 8–16, 1.000 réplicas por tamaño). Salida: `data/delphi/panel_sintetico_resultados.json`. La cifra `kendall_W_overall` de `results.json` (W = 0,278) corresponde a otra especificación: 20 objetos (media de criterios por dimensión, perfil o ítem global) y sin corrección por empates; sobre los 65 ítems la W corregida por empates es 0,202 (χ² = 155,2; gl = 64; p < 0,001).
+
+```bash
+OMP_NUM_THREADS=1 python code/panel_sintetico.py
+```

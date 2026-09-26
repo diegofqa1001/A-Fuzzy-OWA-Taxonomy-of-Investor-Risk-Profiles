@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Si usa estos datos o este código, cítelos como se indica."
+title: "A Fuzzy-OWA Taxonomy of Investor Risk Profiles: valores congelados de la parametrización v1 y panel sintético de pre-validación"
+authors:
+  - family-names: "Quintero-Avellaneda"
+    given-names: "Diego Fernando"
+    orcid: "https://orcid.org/0009-0008-2422-5374"
+    affiliation: "Universidad Nacional de Colombia, Sede Manizales"
+license: MIT
+repository-code: "https://github.com/diegofqa1001/A-Fuzzy-OWA-Taxonomy-of-Investor-Risk-Profiles"
+version: "1.0.0"
+date-released: "2026-09-25"
+keywords:
+  - fuzzy sets
+  - OWA operators
+  - RIM quantifier
+  - investor risk profiling
+  - behavioral finance
