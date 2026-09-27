@@ -8,7 +8,7 @@ This repository contains the replication materials, data, and code for an expand
 
 ### Key Contributions
 
-1. **Seven behavioral dimensions** spanning cognitive, emotional-affective, contextual-situational, and sociocultural-identity domains. *Correction (2026-09-02):* the figure "78 studies" reported in earlier versions of this README came from a superseded review that could not be verified; the systematic review that now supports the dimensions is fully documented in [`prisma-repo`](https://github.com/diegofqa1001/prisma-repo) (PRISMA 2020: 727 records identified, 560 screened, 343 provisionally included at title/abstract level, 14 candidate dimensions coded in `08-sintesis/` and reduced to the seven used here).
+1. **Seven behavioral dimensions** spanning cognitive, emotional-affective, contextual-situational, and sociocultural-identity domains. The systematic review that supports the dimensions is fully documented in [`prisma-repo`](https://github.com/diegofqa1001/prisma-repo) (PRISMA 2020: 727 records identified, 560 screened, 343 provisionally included at title/abstract level, 14 candidate dimensions coded in `08-sintesis/` and reduced to the seven used here).
 
 2. **Eight prototypical investor profiles** (Guardian → Visionary) formalized as fuzzy linguistic vectors with explicit OWA aggregation semantics, producing up to **42.4 percentage points** of difference in asset evaluation depending on profile assignment.
 
@@ -121,11 +121,11 @@ All figures use the **Okabe-Ito** colorblind-friendly palette on a white backgro
 | Domain | Dimension | Code |
 |--------|-----------|------|
 | Cognitive | Risk Tolerance | D1 |
-| Cognitive | Financial Self-Efficacy | D4 |
+| Cognitive | Ambiguity Tolerance | D10 |
 | Emotional-Affective | Loss Aversion | D5 |
 | Emotional-Affective | Emotional Regulation | D7 |
+| Contextual-Situational | Financial Self-Efficacy | D4 |
 | Contextual-Situational | Investment Horizon | D8 |
-| Contextual-Situational | Ambiguity Tolerance | D10 |
 | Sociocultural-Identity | Perceived Social Influence | D12 |
 
 ## Citation
