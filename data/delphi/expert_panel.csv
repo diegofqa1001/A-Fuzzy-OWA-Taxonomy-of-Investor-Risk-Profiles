@@ -1,13 +1,13 @@
 id,sub,aff,country,area,years,gender,tipo
-E01,A,Agente sintético (sin afiliación institucional),no aplica,"Behavioral Finance, Prospect Theory",15-20,M,agente_sintetico
-E02,A,Agente sintético (sin afiliación institucional),no aplica,"Financial Psychology, Risk Perception",10-15,F,agente_sintetico
-E03,A,Agente sintético (sin afiliación institucional),no aplica,"Risk Management, Financial Decision Making",15-20,F,agente_sintetico
-E04,A,Agente sintético (sin afiliación institucional),no aplica,"Behavioral Economics, Investor Profiling",10-15,M,agente_sintetico
-E05,A,Agente sintético (sin afiliación institucional),no aplica,"Portfolio Management, Behavioral Finance",10-15,M,agente_sintetico
-E06,A,Agente sintético (sin afiliación institucional),no aplica,"Behavioral Economics, Risk Assessment",5-10,F,agente_sintetico
-E07,B,Agente sintético (sin afiliación institucional),no aplica,"OWA Operators, Fuzzy Decision Making",15-20,M,agente_sintetico
-E08,B,Agente sintético (sin afiliación institucional),no aplica,"Fuzzy Decision Systems, Computational Intelligence",10-15,M,agente_sintetico
-E09,B,Agente sintético (sin afiliación institucional),no aplica,"Recommender Systems, Machine Learning",10-15,F,agente_sintetico
-E10,B,Agente sintético (sin afiliación institucional),no aplica,"Computational Intelligence, Fuzzy Sets",15-20,M,agente_sintetico
-E11,B,Agente sintético (sin afiliación institucional),no aplica,"Aggregation Operators, OWA Applications",5-10,M,agente_sintetico
-E12,B,Agente sintético (sin afiliación institucional),no aplica,"Fuzzy Portfolio Theory, Applied Statistics",5-10,M,agente_sintetico
+E01,A,Agente sintético (sin afiliación institucional),no aplica,"Behavioral Finance, Prospect Theory",no aplica (agente simulado),no aplica (agente simulado),agente_sintetico
+E02,A,Agente sintético (sin afiliación institucional),no aplica,"Financial Psychology, Risk Perception",no aplica (agente simulado),no aplica (agente simulado),agente_sintetico
+E03,A,Agente sintético (sin afiliación institucional),no aplica,"Risk Management, Financial Decision Making",no aplica (agente simulado),no aplica (agente simulado),agente_sintetico
+E04,A,Agente sintético (sin afiliación institucional),no aplica,"Behavioral Economics, Investor Profiling",no aplica (agente simulado),no aplica (agente simulado),agente_sintetico
+E05,A,Agente sintético (sin afiliación institucional),no aplica,"Portfolio Management, Behavioral Finance",no aplica (agente simulado),no aplica (agente simulado),agente_sintetico
+E06,A,Agente sintético (sin afiliación institucional),no aplica,"Behavioral Economics, Risk Assessment",no aplica (agente simulado),no aplica (agente simulado),agente_sintetico
+E07,B,Agente sintético (sin afiliación institucional),no aplica,"OWA Operators, Fuzzy Decision Making",no aplica (agente simulado),no aplica (agente simulado),agente_sintetico
+E08,B,Agente sintético (sin afiliación institucional),no aplica,"Fuzzy Decision Systems, Computational Intelligence",no aplica (agente simulado),no aplica (agente simulado),agente_sintetico
+E09,B,Agente sintético (sin afiliación institucional),no aplica,"Recommender Systems, Machine Learning",no aplica (agente simulado),no aplica (agente simulado),agente_sintetico
+E10,B,Agente sintético (sin afiliación institucional),no aplica,"Computational Intelligence, Fuzzy Sets",no aplica (agente simulado),no aplica (agente simulado),agente_sintetico
+E11,B,Agente sintético (sin afiliación institucional),no aplica,"Aggregation Operators, OWA Applications",no aplica (agente simulado),no aplica (agente simulado),agente_sintetico
+E12,B,Agente sintético (sin afiliación institucional),no aplica,"Fuzzy Portfolio Theory, Applied Statistics",no aplica (agente simulado),no aplica (agente simulado),agente_sintetico
