@@ -114,7 +114,7 @@ python delphi_analysis.py
 python generate_figures.py
 ```
 
-All figures use the **Okabe-Ito** colorblind-friendly palette on a white background.
+All figures use a restrained **navy-and-grey** palette on a white background.
 
 ## Seven Behavioral Dimensions
 

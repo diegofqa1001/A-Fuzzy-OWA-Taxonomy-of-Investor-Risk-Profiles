@@ -3,7 +3,7 @@
 Figure Generation for Delphi Validation Results
 =================================================
 
-Generates all six validation figures using the Okabe-Ito
+Generates all six validation figures using the navy-and-grey
 colorblind-friendly palette on white backgrounds.
 
 Figures:
@@ -14,7 +14,7 @@ Figures:
     5. IVC distribution across all items
     6. Subpanel A vs B comparison
 
-Palette: Okabe-Ito (https://jfly.uni-koeln.de/color/)
+Palette: navy-and-grey (sober equivalents of the Okabe & Ito colors)
 
 Authors:
     Diego Quintero-Avellaneda, Pedro Julián Ramírez-Angulo, Ernesto León-Castro
@@ -34,15 +34,15 @@ DATA_DIR = os.path.join(os.path.dirname(__file__), "..", "data", "delphi")
 FIG_DIR = os.path.join(os.path.dirname(__file__), "..", "figures")
 os.makedirs(FIG_DIR, exist_ok=True)
 
-# Okabe-Ito palette
+# navy-and-grey palette
 OI = {
-    "orange":    "#E69F00",
-    "skyblue":   "#56B4E9",
-    "green":     "#009E73",
-    "yellow":    "#F0E442",
-    "blue":      "#0072B2",
-    "vermillion": "#D55E00",
-    "purple":    "#CC79A7",
+    "orange":    "#8C8C8C",
+    "skyblue":   "#9AACC2",
+    "green":     "#4F6D8F",
+    "yellow":    "#B8AE9C",
+    "blue":      "#1F3A5F",
+    "vermillion": "#3F3F3F",
+    "purple":    "#8A7D72",
     "black":     "#000000",
 }
 
@@ -299,7 +299,7 @@ def fig_subpanel():
 def main():
     print("=" * 55)
     print("GENERATING DELPHI VALIDATION FIGURES")
-    print(f"Palette: Okabe-Ito | Background: white | DPI: 300")
+    print(f"Palette: navy-and-grey | Background: white | DPI: 300")
     print("=" * 55)
     print()
 
